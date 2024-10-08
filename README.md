@@ -6,6 +6,15 @@
 
 <p>O projeto utiliza <strong>Python</strong> e integra <strong>Programação Orientada a Objetos (POO)</strong> com bibliotecas de análise de dados como <strong>Pandas</strong>, <strong>Numpy</strong>, e <strong>Matplotlib</strong>.</p>
 
+<h2>Download dos Datasets</h2>
+<p>Os datasets utilizados neste projeto podem ser baixados através dos links abaixo:</p>
+<ul>
+  <li><a href="https://www.kaggle.com/datasets/fronkongames/steam-games-dataset" target="_blank">Dataset 1: Dataset de informações dos jogos na Steam</a></li>
+  <li><a href="https://www.kaggle.com/datasets/andrewmvd/steam-reviews" target="_blank">Dataset 2: Dataset de reviews dos jogos na Steam</a></li>
+</ul>
+<p>Todos os datasets estão no formato <code>.csv</code> para facilitar o uso com bibliotecas como <strong>Pandas</strong>.</p>
+
+
 <h2>🎯Objetivo</h2>
 <p>Explorar padrões em críticas de jogos no Steam para identificar quais fatores têm impacto direto nas notas que os jogos recebem. Nosso objetivo é entender como variáveis como tempo de jogo, preço, produtora e ano de lançamento afetam as avaliações dos jogadores.</p>
 
